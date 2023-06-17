@@ -109,6 +109,7 @@
       <path value="$PROJECT_DIR$/src/vendor/psr/http-factory" />
       <path value="$PROJECT_DIR$/src/vendor/fakerphp/faker" />
       <path value="$PROJECT_DIR$/src/vendor/composer" />
+      <path value="$PROJECT_DIR$/src/vendor/laravel/ui" />
     </include_path>
   </component>
   <component name="PhpProjectSharedConfiguration" php_language_level="7.3" />

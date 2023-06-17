@@ -2,21 +2,36 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f6226297-f3d7-42bb-aa17-db26e7adadea" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/app/Models/DepartmentHistory.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/Services/DepartmentHistoryService.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/ValueObjects/DepartmentPeriod.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/views/front/employee/index.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker/db/data/#innodb_temp/temp_1.ibt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker/db/data/#innodb_temp/temp_10.ibt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker/db/data/#innodb_temp/temp_2.ibt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker/db/data/#innodb_temp/temp_3.ibt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker/db/data/#innodb_temp/temp_4.ibt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker/db/data/#innodb_temp/temp_5.ibt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker/db/data/#innodb_temp/temp_6.ibt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker/db/data/#innodb_temp/temp_7.ibt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker/db/data/#innodb_temp/temp_8.ibt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker/db/data/#innodb_temp/temp_9.ibt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker/db/data/binlog.000005" beforeDir="false" afterPath="$PROJECT_DIR$/docker/db/data/binlog.000005" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker/db/data/#ib_16384_0.dblwr" beforeDir="false" afterPath="$PROJECT_DIR$/docker/db/data/#ib_16384_0.dblwr" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker/db/data/#innodb_temp/temp_1.ibt" beforeDir="false" afterPath="$PROJECT_DIR$/docker/db/data/#innodb_temp/temp_1.ibt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker/db/data/#innodb_temp/temp_10.ibt" beforeDir="false" afterPath="$PROJECT_DIR$/docker/db/data/#innodb_temp/temp_10.ibt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker/db/data/#innodb_temp/temp_2.ibt" beforeDir="false" afterPath="$PROJECT_DIR$/docker/db/data/#innodb_temp/temp_2.ibt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker/db/data/#innodb_temp/temp_3.ibt" beforeDir="false" afterPath="$PROJECT_DIR$/docker/db/data/#innodb_temp/temp_3.ibt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker/db/data/#innodb_temp/temp_4.ibt" beforeDir="false" afterPath="$PROJECT_DIR$/docker/db/data/#innodb_temp/temp_4.ibt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker/db/data/#innodb_temp/temp_5.ibt" beforeDir="false" afterPath="$PROJECT_DIR$/docker/db/data/#innodb_temp/temp_5.ibt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker/db/data/#innodb_temp/temp_6.ibt" beforeDir="false" afterPath="$PROJECT_DIR$/docker/db/data/#innodb_temp/temp_6.ibt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker/db/data/#innodb_temp/temp_7.ibt" beforeDir="false" afterPath="$PROJECT_DIR$/docker/db/data/#innodb_temp/temp_7.ibt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker/db/data/#innodb_temp/temp_8.ibt" beforeDir="false" afterPath="$PROJECT_DIR$/docker/db/data/#innodb_temp/temp_8.ibt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker/db/data/#innodb_temp/temp_9.ibt" beforeDir="false" afterPath="$PROJECT_DIR$/docker/db/data/#innodb_temp/temp_9.ibt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker/db/data/binlog.index" beforeDir="false" afterPath="$PROJECT_DIR$/docker/db/data/binlog.index" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docker/db/data/ib_buffer_pool" beforeDir="false" afterPath="$PROJECT_DIR$/docker/db/data/ib_buffer_pool" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker/db/data/ib_logfile0" beforeDir="false" afterPath="$PROJECT_DIR$/docker/db/data/ib_logfile0" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docker/db/data/ibdata1" beforeDir="false" afterPath="$PROJECT_DIR$/docker/db/data/ibdata1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker/db/data/ibtmp1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker/db/data/ibtmp1" beforeDir="false" afterPath="$PROJECT_DIR$/docker/db/data/ibtmp1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker/db/data/mysql.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/docker/db/data/mysql.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker/db/data/undo_001" beforeDir="false" afterPath="$PROJECT_DIR$/docker/db/data/undo_001" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker/db/data/undo_002" beforeDir="false" afterPath="$PROJECT_DIR$/docker/db/data/undo_002" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/Models/Employee.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/Models/Employee.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/src/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/database/migrations/2023_06_12_195928_create_employees_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/database/migrations/2023_06_12_195928_create_employees_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -139,6 +154,7 @@
       <path value="$PROJECT_DIR$/src/vendor/psr/http-factory" />
       <path value="$PROJECT_DIR$/src/vendor/fakerphp/faker" />
       <path value="$PROJECT_DIR$/src/vendor/composer" />
+      <path value="$PROJECT_DIR$/src/vendor/laravel/ui" />
     </include_path>
   </component>
   <component name="ProjectId" id="2R5q50u4dFq0b1MucYjUL4izBxj" />
@@ -151,7 +167,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../api" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../xampp_OTORIOKI/htdocs/keeper" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -170,11 +186,23 @@
       <updated>1686550104918</updated>
       <workItem from="1686550106888" duration="4806000" />
       <workItem from="1686611145695" duration="70000" />
-      <workItem from="1686611246934" duration="5780000" />
+      <workItem from="1686611246934" duration="8610000" />
+      <workItem from="1686979462442" duration="5754000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
